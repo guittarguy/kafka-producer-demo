@@ -1,0 +1,8 @@
+## YAML Template.
+---
+kafka:
+    bootstrap:
+        servers: localhost:9092
+    clientID: test-producer
+server:
+    port: 9000
